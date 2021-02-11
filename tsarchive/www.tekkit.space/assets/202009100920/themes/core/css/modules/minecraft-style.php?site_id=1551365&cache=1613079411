@@ -1,0 +1,60 @@
+
+.m_minecraftserverstatus_new.preset_47406132 {
+	background: #ccc9c9;	background-image: url(0);	border-radius: 0px;	border: 0px solid #6d7b8c;}
+
+.m_minecraftserverstatus_new.preset_47406132:before {
+	border-radius: 1px;	top: -1px;
+	right: -1px;
+	bottom: -1px;
+	left: -1px;
+	border: 1px solid #234d12;
+	z-index: -1;
+}
+
+.m_minecraftserverstatus_new.preset_47406132 .top-area {
+	background-color: rgba(204,201,201,0.5);	border-top-left-radius: 0px;	border-top-right-radius: 0px;}
+
+.m_minecraftserverstatus_new.preset_47406132 .title .name,
+.m_minecraftserverstatus_new.preset_47406132 .detail .server-name {
+	color: #ffffff;	text-shadow: 1px 1px 1px #053b00;}
+
+.m_minecraftserverstatus_new.preset_47406132 .title .detail-line {
+	color: #aebfd4;	text-shadow: 1px 1px 1px #053b00;}
+
+.m_minecraftserverstatus_new.preset_47406132 .title .status {
+	background-color: rgba(204,201,201,0.5);	border: 1px solid #cce3ff;	color: #f0f8ff;}
+
+.m_minecraftserverstatus_new.preset_47406132 .title .status.color.online {
+	color: #b5ffc5;}
+.m_minecraftserverstatus_new.preset_47406132 .title .status.color.offline {
+	color: #ff9e9e;}
+.m_minecraftserverstatus_new.preset_47406132 .title .status.color.alert {
+	color: #fff370;}
+
+/* Online status icon */
+	.m_minecraftserverstatus_new.preset_47406132 .title .status-icon.status-online .bg {
+		border-color: #b5ffc5;	}
+
+/* Offline status icon */
+	.m_minecraftserverstatus_new.preset_47406132 .title .status-icon.status-offline .bg {
+		border-color: #ff9e9e;	}
+
+/* Alert status icon */
+	.m_minecraftserverstatus_new.preset_47406132 .title .status-icon.status-alert .bg {
+		border-color: #fff370;	}
+
+.m_minecraftserverstatus_new.preset_47406132 .progressbar {
+	background-color: #a2a0a0;	border: 1px solid #6f6f6f;	color: 000;}
+
+.m_minecraftserverstatus_new.preset_47406132 .progressbar .inner {
+	background-color: #cccccc;}
+
+.m_minecraftserverstatus_new.preset_47406132 .graph-canvas {
+	background-color: #a2a0a0;	border: 1px solid #6f6f6f;}
+
+.m_minecraftserverstatus_new.preset_47406132 .records {
+	color: #ffffff;	text-shadow: 1px 1px 1px #053b00;}
+
+.m_minecraftserverstatus_new.preset_47406132 a {
+	color: #ffc8b5;}
+
